@@ -71,11 +71,6 @@
 
 [Tim Ferriss](http://fourhourworkweek.com/podcast/) is well known for the [The 4 Hour Body](http://fourhourbody.com/). His particular brand of life-hacking tends to lead to polarized reactions. Some love him, some find his stuff silly. His podcasts, however, are extremely entertaining. He has long conversations with friends he knows who are world-class in something, be it a chef at a Michelin three star restaurant, a martial arts champion, a chess prodigy, or an investment banker. Each episode is naturally tailored to the person he is interviewing, but each hour or so discussion includes several rapid-fire questions like "What book do you find yourself gifting most frequently" and "What is your morning routine." The lessons you can learn from his guests' responses is incredibly useful, and the life experiences shared are varied and fascinating.
 
-### Nonfiction Books ###
-
-[Better](http://www.amazon.com/Better-A-Surgeons-Notes-Performance/dp/0312427654) by Atul Gawande.
-
-[Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233/ref=sr_1_1?s=books&ie=UTF8&qid=1439932673&sr=1-1&keywords=elon+musk) by Ashlee Vance.
 
 ### Math ###
 
@@ -98,11 +93,22 @@
 
 [Nicholas Feltron](http://feltron.com/). You can see his design chops change throughout his portoflio as he experiments with form in infographics.
 
+[Todd Lindemann](https://t.co/kSTxZGhhZJ). High quality graphic design, diagrams, and cutaway graphics. Thoughtful presentation of statistics (sports, economics, timelines, cause-and-effect) in novel forms.
+
+
 ### Physical and Industrial Design ###
 
 [Skylar Tibbits](https://vimeo.com/70660109) is the director of the Self-Assembly lab at MIT.
 
 [MIT Architecture program overview](https://vimeo.com/47845783).
+
+### Nonfiction Books ###
+
+[Better](http://www.amazon.com/Better-A-Surgeons-Notes-Performance/dp/0312427654) by Atul Gawande.
+
+[Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233/ref=sr_1_1?s=books&ie=UTF8&qid=1439932673&sr=1-1&keywords=elon+musk) by Ashlee Vance.
+
+[My Struggle](http://www.amazon.com/My-Struggle-Karl-Ove-Knausgaard/dp/1935744860). I've read the third book of the 6-part series. He's a contemporary literary superstar for a reason, and that reason is not his incredbile Nordic hair.
 
 ### Fiction books ###
 

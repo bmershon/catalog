@@ -1,6 +1,6 @@
 # Fieldnotes
 
-*These notes serve to collect all the projects, writing, people, and Big Ideas that I have found particularly exciting or enriching over the past few years. The items are not listed in order of my having been introduced to them, but rather are organized in groups with links to help connect project to author, author to project, idea to concrete example, or example to Big Idea. I reference the following people, projects, and pieces often when I talk with friends, so I have attempted to create a catalogue raisonné of sorts for both myself and others. I cherish the assortment of things here so much that I'm afraid to lose them; this is an attempt to pin down some of the notes bumping around in my head. Some links may go bad over time. Sorry about that!
+*These notes serve to collect many of the projects, writing, people, and Big Ideas that I have found particularly exciting or enriching over the past few years. The following items are not listed in order of my having been introduced to them, but rather are organized in groups with links to help connect project to author, author to project, idea to concrete example, or example to Big Idea. I often reference the following works and people when I talk with friends, so I have attempted to create a catalogue raisonné of sorts for both myself and others. I cherish the assortment of things here so much that I'm afraid to lose them; this is an attempt to pin down some of the notes bumping around in my head. Some links may go bad over time. Sorry about that!
 
 ### Technical writing ###
 
@@ -12,7 +12,7 @@
 
 [Ramblings in Real Time](http://www.bluesnews.com/abrash/) by Micheal Abrash. Discussion of the video game Quake's 3D engine, specifically the problem of determining which  polygons need to be drawn, and which are occluded by monsters, walls, and other game world objects. Though much of the material is over my head, the high-level discussion of strategies for approaching a challenge as difficult as creating a 3D engine (let alone creating a new one every week) provide an excellent model for technical writing. Micheal Abrash is a gifted programmer and computer scientist, and his clarity of thinking extends to his writing. His precision in writing about technical processes and the creative processes that take place within a software design process is something I strive to emulate. A [PDF](http://www.bluesnews.com/abrash/abrash.pdf) also available.
 
-[Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/) by Mike Bostock. Great example of an interactive essay. Very much inspired by Bret Victor (Victorianism?) principals of presentation.
+[Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/) by Mike Bostock. Great example of an interactive essay. Very much inspired by Bret Victor's (Victorianism?) principals of presentation.
 
 [How Selections Work](http://bost.ocks.org/mike/selection/) by Mike Bostock. Interactive presentation of an API. Pretty great. Was peer reviewed and shaped by consultation with these big names: Anna Powell-Smith, Scott Murray, Nelson Minar, Tom Carden, Shan Carter, Jason Davies, Tom MacWright and [John Firebaugh](http://jfire.io/animations/).
 
@@ -20,6 +20,7 @@
 
 [D3: Data-Driven Documents](http://vis.stanford.edu/papers/d3) by [Michael Bostock](http://bost.ocks.org/mike/), [Vadim Ogievetsky](http://vadim.ogievetsky.com/), [Jeffrey Heer](http://homes.cs.washington.edu/~jheer/). The white paper produced at Stanford. D3.js is brought into the world, and it is beautiful. enter(), update(), exit().
 
+[Anything written by Evan Chen]. MIT RSI. Harvard '18. Brilliant guy with an obsessive interest in typesetting and thorough note-taking. Most of the math is way over my head, but I've learned a bit about note-taking from him. He regards his notes and reams of scratch work as a form of external memory. I've to say, external memory does take some of the burden off of my already limited and heavily-taxed mind. On the technical side, I've used his LaTex [sample file](https://stuff.mit.edu/~evanchen/handouts/TeXSample/) for typesetting tips and some best-practices examples for typesetting math symbols and equations. I started writing up [solutions](https://www.dropbox.com/home/sharelatex/Proofs%20Involving%20Conjunctions%20and%20Biconditionals?preview=Proofs_Involving_Conjunctions_and_Biconditionals.pdf) to Daniel J. Velleman's *How To Prove It* book for practice. My current workflow is to solve things on paper, and use the process of typesetting my notes as a chance to review what I've done.
 
 
 ### Short videos ###
@@ -36,6 +37,7 @@
 
 [Stop Drawing Dead Fish](https://vimeo.com/64895205) by [Bret Victor](http://worrydream.com/). "People are alive -- they behave and respond. Creations within the computer can also live, behave, and respond... if they are allowed to."
 
+[The Humane Presentation of Thought](https://vimeo.com/115154289) (2014) by Bret Victor. First he talks about the past. Then he talks about the future. This talk has to do with how we communicate with one another, and how we try to express what's in our heads in order to help us make intellectual progress.
 
 
 ### Interactive, Explorable Things ###
@@ -44,6 +46,12 @@
 
 [Coming Out Simulator](http://ncase.itch.io/coming-out-simulator-2014) by Nicky Case. Amazing. This is [Affective Computing](http://affect.media.mit.edu/) in action.
 
+
+### Clever Projects (by clever people) ###
+
+[Center for Missed Connections](http://centerformissedconnections.info/) by [Ingrid Burrington](http://lifewinning.com/about). I have much love for her. She thinks hard about human problems, such as loneliness in the city (Center for Missed Connections) or the procedures of a high-profile court case like the trial of Bradley Manning. She looks for meaning and throws her cleverness in that direction, leveraging her skills as a writer, data scientist, and developer to communicate the connections she sees. Her work always leaves me with the impression that it is clever, necessary, and more relevent to my life than other work on which I heap praise.
+
+[Loop Ditty Geometric Music Visualizer](http://bigdata.duke.edu/sites/bigdata.duke.edu/files/images/ctralie_DataExpeditions_writeup-1.pdf) by Chris Tralie. He led a lab in a course taught by Paul Bendich at Duke in 2014. As a grad student in the Duke Math department (Princeton undergraduate degree in ECE), he introduced my class to a real-world example of computation topology, using his own research project as a subject for a Matlab-based homework project designed for undergraduates. Although the actual mechanics of the stuff he introduced to my class went over our heads, he did an excellent job of communicating the big ideas and patterns. His site and lab work point to the opportunity to introduce more real-world at earlier stages of a student's academic career, with the hopes of better illustrating where he or she is headed, as well as inspiring them to keep climbing to higher and higher levels within their field so that they can do *the cool stuff*. Writing equations for homework with pencil and paper is one thing, but seeing a song analyzed in 50 dimensional space and then projected into 3 dimensional space is sometimes a useful exercise and source of motivation for further study.
 
 
 ### Short Stories ###
@@ -108,7 +116,29 @@
 
 [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233/ref=sr_1_1?s=books&ie=UTF8&qid=1439932673&sr=1-1&keywords=elon+musk) by Ashlee Vance.
 
-[My Struggle](http://www.amazon.com/My-Struggle-Karl-Ove-Knausgaard/dp/1935744860). I've read the third book of the 6-part series. He's a contemporary literary superstar for a reason, and that reason is not his incredbile Nordic hair.
+[My Struggle](http://www.amazon.com/My-Struggle-Karl-Ove-Knausgaard/dp/1935744860). I've read the third book of the 6-part series. He's a contemporary literary superstar for a reason, and that reason is not his gorgeous Nordic hair.
+
+[Delerious New York](http://www.amazon.com/Delirious-New-York-Retroactive-Manifesto/dp/1885254008) by Rem Koolhaas. "Rem Koolhaas's celebration and analysis of New York depicts the city as a metaphor for the incredible variety of human behavior."
+
+```
+
+@KoolhaasCheer
+
+ (•_•)
+<)   )╯  REM
+ /    \
+
+\(•_•)
+(   (>   KOOL
+ /    \
+
+ (•_•)
+<)   )>  HAAS
+ /    \
+
+```
+
+
 
 ### Fiction books ###
 

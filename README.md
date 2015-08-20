@@ -118,7 +118,7 @@
 
 [My Struggle](http://www.amazon.com/My-Struggle-Karl-Ove-Knausgaard/dp/1935744860). I've read the third book of the 6-part series. He's a contemporary literary superstar for a reason, and that reason is not his gorgeous Nordic hair.
 
-[Delerious New York](http://www.amazon.com/Delirious-New-York-Retroactive-Manifesto/dp/1885254008) by Rem Koolhaas. "Rem Koolhaas's celebration and analysis of New York depicts the city as a metaphor for the incredible variety of human behavior."
+[Delerious New York](http://www.amazon.com/Delirious-New-York-Retroactive-Manifesto/dp/1885254008) by Rem Koolhaas. Coney Island as an expression of human ingenuity and willingness to experiment with architectural form. Luna Park and the Incubator building, where "old technology sanctions new technology." Elisha Otis's demonstration of an elevator's safety mechanisms: the dramatic cutting of the elevator's rope by its creator standing on the platform and the subsequent failure of any harm to come to him. "The anticlimax as denouement, the non-event as triumph."
 
 ```
 
@@ -138,6 +138,7 @@
 
 ```
 
+[Consider the Lobster](http://www.amazon.com/Consider-Lobster-Essays-Foster-Wallace/dp/0316013323) by David Foster Wallace. Wallace follows John Mccain on the campaign trail, reporting for Rolling Stone Magazine. A philosophical treatment of consciousness sparked by a concern for the pain lobsters feel when humans happily pitch them into boiling caldrons of water.
 
 
 ### Fiction books ###

@@ -2,6 +2,8 @@
 
 *These notes serve to collect many of the projects, writing, people, and Big Ideas that I have found particularly exciting or enriching over the past few years. The following items are not listed in order of my having been introduced to them, but rather are organized in groups with links to help connect project to author, author to project, idea to concrete example, or example to Big Idea. I often reference the following works and people when I talk with friends, so I have attempted to create a catalogue raisonné of sorts for both myself and others. I cherish the assortment of things here so much that I'm afraid to lose them; this is an attempt to pin down some of the notes bumping around in my head. Some links may go bad over time. Sorry about that!*
 
+***Bold listings indicate books that I'm planning to read**.
+
 ### Technical writing ###
 
 [Magic Ink](http://worrydream.com/MagicInk/) (2006) by Bret Victor. Explores the different types of software we use, and drills down into the unique challenge of designing software whose purpose is to present information to the user. The Importance of context-sensitive information graphics is illustrated through a case study: Bret Victor's widely acclaimed BART widget for tracking train schedules.
@@ -53,8 +55,7 @@
 
 [Loop Ditty Geometric Music Visualizer](http://bigdata.duke.edu/sites/bigdata.duke.edu/files/images/ctralie_DataExpeditions_writeup-1.pdf) by Chris Tralie. He led a lab in a course taught by Paul Bendich at Duke in 2014. As a grad student in the Duke Math department (Princeton undergraduate degree in ECE), he introduced my class to a real-world example of computation topology, using his own research project as a subject for a Matlab-based homework project designed for undergraduates. Although the actual mechanics of the stuff he introduced to my class went over our heads, he did an excellent job of communicating the big ideas and patterns. His site and lab work point to the opportunity to introduce more real-world at earlier stages of a student's academic career, with the hopes of better illustrating where he or she is headed, as well as inspiring them to keep climbing to higher and higher levels within their field so that they can do *the cool stuff*. Writing equations for homework with pencil and paper is one thing, but seeing a song analyzed in 50 dimensional space and then projected into 3 dimensional space is sometimes a useful exercise and source of motivation for further study.
 
-
-### Short Stories ###
+### Essays ###
 
 [The Numbers](http://mrbellersneighborhood.com/2002/03/the-numbers) by Bryan Charles. First person account of being in the Twin Towers when the planes struck. One of many great stories to find its way into [Mr. Beller's Neighborhood](http://mrbellersneighborhood.com/). Thomas Beller came and spoke at one of my night sessions when I was at NYU. He's a fantastic storyteller. I found his site invaluable as a resource during my creative nonfiction seminar.
 
@@ -62,6 +63,7 @@
 
 [Both Ways](https://nplusonemag.com/issue-22/essays/both-ways/) by Kristen Dombek. Exploring the difficulties of bisexuality and polyamorous relationships.
 
+[A Hollywood Screenwriter](https://nplusonemag.com/issue-23/essays/a-hollywood-screenwriter/) by Kristen Dombek. On the proclivity towards depression that many artistic, political, academic, and literary types tend to exhibit. How to move forward, to laugh at the transience of our despair and, yes, step towards a reasonable form of enlightenment.
 
 ### Photography ###
 
@@ -138,9 +140,11 @@
 
 ```
 
-[Consider the Lobster](http://www.amazon.com/Consider-Lobster-Essays-Foster-Wallace/dp/0316013323) by David Foster Wallace. Wallace follows John Mccain on the campaign trail, reporting for Rolling Stone Magazine. A philosophical treatment of consciousness sparked by a concern for the pain lobsters feel when humans happily pitch them into boiling caldrons of water.
+[Consider the Lobster](http://www.amazon.com/Consider-Lobster-Essays-Foster-Wallace/dp/0316013323) by David Foster Wallace. Wallace follows John Mccain on the campaign trail, reporting for Rolling Stone Magazine. A philosophical treatment of consciousness sparked by a concern for the pain lobsters feel when humans happily pitch them into boiling caldrons of water. And other essays.
 
 
 ### Fiction books ###
 
 [The Satanic Verses](http://www.amazon.com/s/ref=nb_sb_ss_i_5_10?url=search-alias%3Dstripbooks&field-keywords=salman+rushdie+satanic+verses&sprefix=salman+rushdie+satanic+verses%2Cstripbooks%2C156) by Salmon Rushdie.
+
+**[Miss Lonelyhearts](http://www.amazon.com/gp/product/0811220931?psc=1&redirect=true&ref_=ox_sc_act_title_1&smid=ATVPDKIKX0DER) by Nathanael West. This work is referenced in Kristen Dombek's *A Hollywood Screenwriter*.**

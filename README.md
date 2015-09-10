@@ -144,6 +144,8 @@
 
 [Consider the Lobster](http://www.amazon.com/Consider-Lobster-Essays-Foster-Wallace/dp/0316013323) by David Foster Wallace. Wallace follows John Mccain on the campaign trail, reporting for Rolling Stone Magazine. A philosophical treatment of consciousness sparked by a concern for the pain lobsters feel when humans happily pitch them into boiling caldrons of water. And other essays.
 
+[The Master Switch](http://www.amazon.com/The-Master-Switch-Information-Empires/dp/0307390993) by Tim Wu.
+
 
 ### Fiction books ###
 

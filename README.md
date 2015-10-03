@@ -152,3 +152,5 @@
 [The Satanic Verses](http://www.amazon.com/s/ref=nb_sb_ss_i_5_10?url=search-alias%3Dstripbooks&field-keywords=salman+rushdie+satanic+verses&sprefix=salman+rushdie+satanic+verses%2Cstripbooks%2C156) by Salmon Rushdie.
 
 **[Miss Lonelyhearts](http://www.amazon.com/gp/product/0811220931?psc=1&redirect=true&ref_=ox_sc_act_title_1&smid=ATVPDKIKX0DER) by Nathanael West. This work is referenced in Kristen Dombek's *A Hollywood Screenwriter*.**
+
+[Brewster](http://www.amazon.com/Brewster-A-Novel-Mark-Slouka/dp/0393348830) by Mark Slouka.

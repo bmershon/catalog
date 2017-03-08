@@ -1,11 +1,12 @@
 # Brooks Mershon's fieldnotes
 =============================
 
-These notes serve to collect many of the projects, writing, people, and Big Ideas that I have found particularly exciting or enriching over the past few years. The following items are not listed in order of my having been introduced to them, but rather are organized in groups with links to help connect project to author, author to project, idea to concrete example, or example to Big Idea.
+[Books](https://github.com/bmershon/fieldnotes/wiki/Nonfiction-Books), [essays](https://github.com/bmershon/fieldnotes/wiki/Essays), [films](https://github.com/bmershon/fieldnotes/wiki/Film) and [other resources](https://github.com/bmershon/fieldnotes/wiki/Technical-Writing) I have found to be particularly great or enriching.
 
-I often reference the following works and people when I talk with friends, so I have attempted to create a catalogue raisonné of sorts for both myself and others. I cherish the assortment of things here so much that I'm afraid to lose them; this is an attempt to pin down some of the notes bumping around in my head.
+Entries are usually ordered by appending new materials as I encounter them to an continually growing list on each particular page of this wiki. I especially like to keep track of those materials which do not reside on my bookshelf, so that I may read/watch/listen again, recommend these resources to a friend, and recall where I have been.
 
-Some links may go bad over time. Sorry about that!
+I started faithfully recording toward the end of my undergraduate studies, so high school canon and a good deal of other materials have not made it to the list.
+
+This is my garden that I find great pleasure in cultivating.
 
 I've organized this material into the [wiki pages for this respository](https://github.com/bmershon/Fieldnotes/wiki).
-

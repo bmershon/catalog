@@ -1,4 +1,4 @@
-Catalog
+Brooks's Catalog
 =============================
 
 [Books](https://github.com/bmershon/fieldnotes/wiki/Nonfiction-Books), [essays](https://github.com/bmershon/fieldnotes/wiki/Essays), [films](https://github.com/bmershon/fieldnotes/wiki/Film) and [other resources](https://github.com/bmershon/fieldnotes/wiki/Technical-Writing) I have found to be particularly great or enriching.
